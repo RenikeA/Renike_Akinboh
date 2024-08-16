@@ -17,7 +17,7 @@ function Footer() {
                         xs={12}
                     >
                         <Typography variant="body1" className={classes.attribution}>
-                            Developed by <a href="https://www.linkedin.com/in/akshatvg" className={classes.textColored} target="_blank" rel="noreferrer">Akshat Gupta</a>.
+                            Developed by <a href="https://www.linkedin.com/in/temitope-akinboh-336b52227/" className={classes.textColored} target="_blank" rel="noreferrer">Renike Akinboh</a>.
                         </Typography>
                     </Grid>
                 </Grid>

@@ -41,7 +41,7 @@ function HeadSection() {
                     >
                         <Typography variant="h3" className={classes.welcomeTitle}>Hey!</Typography>
                         <Typography variant="h3" className={classes.title}>
-                            I'm <span className={classes.textColored}>Akshat.</span>
+                            I'm <span className={classes.textColored}>Renike.</span>
                         </Typography>
                         <Typography variant="h6" className={classes.subtitle}>
                             <Typewriter
@@ -62,7 +62,7 @@ function HeadSection() {
                             md={6}
                             style={{ textAlign: "center" }}
                         >
-                            <img src={AkshatGupta} alt="Akshat Gupta" className={classes.heroImage} draggable="false" />
+                            <img src={AkshatGupta} alt="Morenike Akinboh" className={classes.heroImage} draggable="false" />
                         </Grid>
                     )}
                 </Grid>
